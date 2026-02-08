@@ -49,8 +49,9 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yupsieee! He he🙈.... I love you!",
-       
+        title: "Yupsieee! He he🙈.... ",
+        message: "I love you!",
+        emojis: "💖💝💕"  // These will bounce around
     },
 
     // Color scheme for the website
